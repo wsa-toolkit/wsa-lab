@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+*.pyo
+*.log
+*.bak
+*.bak.*
+.wsa_current
+assessments*/
+/tmp/
+*.deb
